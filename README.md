@@ -28,7 +28,7 @@ The application expose the following APIs:
 Data persisted on H2 DB using JPA. The application pack and run from docker.
 
 You can go to swagger-ui and see the API. on local box api docs - http://localhost:8080/v2/api-docs
-In the future i thinking to create Angular pages for the fron-end which enable to create/read/update and delete the items in the shop,  meanwhile you can use Postman to see the resposes and the inventory.
+Herr in Api are used create/read/update and delete the items in the shop,  meanwhile you can use Postman to see the resposes.
 
 Using below command i ceated docker image in my local system and run and tested them:
 
